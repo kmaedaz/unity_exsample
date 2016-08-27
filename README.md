@@ -18,7 +18,8 @@ https://github.com/edom18/Unity-HandsOn-Sample
 
 
 
-
+androidのビルドは確認できましたが、
+iOS向けのビルド方法はわかりません
 
 
 スマホビルド方法　参考URL
@@ -28,6 +29,7 @@ http://techacademy.jp/magazine/2229
 
 Unity で iOS / Android アプリをリリースするまで
 http://qiita.com/sea_mountain/items/ab2c631d0785e653be34
+
 
 基本的はGoogle Playは事前審査がないので、数時間内に公開されると思います。
 原則、セキュリティ上、問題なければリジェクトはありません。
